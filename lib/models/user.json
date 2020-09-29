@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "message": "Доступ разрешен! Приятного рабочего дня!",
+    "data": {
+        "username": "89253826214",
+        "fio": "Амирханов Давид Рафикович",
+        "pin": "443",
+        "rights": "admin",
+        "token": "2f0caf829bd72bcf3f6f7d6edb23e8d0",
+        "access": {
+            "agreement": {
+                "access": 1,
+                "editData": 1,
+                "payData": 1,
+                "commentAdmin": 1,
+                "odIspolnitel": 1,
+                "epod": 1,
+                "epodIspoln": 1,
+                "nachPredComment": 1,
+                "comment": 1,
+                "uppComment": 1,
+                "sytRazgovora": 1,
+                "predmetDogovora": 1,
+                "epodComments": 1,
+                "primechanie": 1,
+                "commentOKK": 1,
+                "act": 1,
+                "arhiv": 1,
+                "dopinfo": 1,
+                "files": 1,
+                "colorEdit": 1,
+                "myAgreement": 1
+            },
+            "coming": {
+                "access": 1,
+                "editRows": 1,
+                "addRow": 1,
+                "deleteRow": 1,
+                "sendReport": 1,
+                "intern": 1,
+                "records": 1,
+                "onlyAll": 1
+            },
+            "zadachnik": {
+                "access": 1,
+                "addTask": 1,
+                "addTaskForAll": 1,
+                "doneTask": 1,
+                "editTask": 1,
+                "addCommentTask": 1,
+                "removeTask": 1,
+                "nullNumDog": 1
+            },
+            "reytingPredstav": {
+                "access": 1
+            },
+            "personal": {
+                "access": 1,
+                "showDetails": 1,
+                "edit": 1
+            }
+        }
+    }
+}
